@@ -16,6 +16,7 @@ I am 23 years old, I my ex life, i was a teacher of math. My analytical and prob
 * Node.js (basic knowledge)
 * Figma(for web development)
 # Code Examples
+```
 function sortByVowels(...words) {
     function countVowels(word) {
         const vowels = ['a', 'e', 'i', 'o', 'u'];
@@ -30,6 +31,7 @@ function sortByVowels(...words) {
 
     return words.sort((a, b) => countVowels(a) - countVowels(b)).join(' ');
 }
+```
 # Education
 * Bachelor, Gomel State University, Gomel
     + Faculty of Mathematics
