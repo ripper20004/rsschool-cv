@@ -30,3 +30,11 @@ function sortByVowels(...words) {
 
     return words.sort((a, b) => countVowels(a) - countVowels(b)).join(' ');
 }
+# Education
+* Bachelor, Gomel State University, Gomel
+    + Faculty of Mathematics
+# Experience
+* Working in a school for several years
+# English
+* EPAM English test result: B1
+* I use an app on my smartphone to keep up with my English
